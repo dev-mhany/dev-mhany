@@ -1,5 +1,5 @@
 ![dev-mhany's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-mhany&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mhan&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mhany&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @dev-mhany
 - 👀 I’m interested in Front End 
