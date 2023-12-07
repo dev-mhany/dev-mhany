@@ -1,3 +1,6 @@
+[![dev-mhany's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-mhany)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Hi, I’m @dev-mhany
 - 👀 I’m interested in Front End 
 - 🌱 I’m currently learning with ALX Africa
