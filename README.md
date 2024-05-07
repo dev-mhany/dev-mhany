@@ -4,7 +4,9 @@
 &nbsp;
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/muhammad-hany-dev/))
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]([https://github.com/](https://github.com/dev-mhany))              
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]([https://github.com/](https://github.com/dev-mhany))  
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=dev-mhany&theme=darcula&hide_border=true&background=FFFFFF00">
+
 
 - 👋 Hi, I’m @dev-mhany
 - 👀 I’m interested in Front End 
