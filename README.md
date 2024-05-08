@@ -2,6 +2,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mhany&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=dev-mhany&theme=darcula&hide_border=true&background=FFFFFF00">
+  <div align="center">
+  <img src="https://profile-counter.glitch.me/dev-mhany/count.svg?"  />
+</div>
 
   ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
