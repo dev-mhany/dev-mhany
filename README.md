@@ -38,6 +38,3 @@ Highly skilled and experienced Full Stack Developer with a proven track record o
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-mhany&bg_color=000000&color=dfbfdc&line=decf2b&point=7a53d5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/dev-mhany/FEM-Cookies" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-mhany&repo=FEM-Cookies&title_color=facc15&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
