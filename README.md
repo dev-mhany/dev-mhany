@@ -13,10 +13,6 @@ Highly skilled and experienced Full Stack Developer with a proven track record o
 * 🤝  I'm open to collaborating on Any Web development Ideas
 * ⚡  I'm secretly superman but don't tell anyone
 
-<a href="https://www.github.com/dev-mhany" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/dev-mhany?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a><a href="https://www.x.com/MuhammadHanyDev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/MuhammadHanyDev?logo=twitter&style=for-the-badge&color=ffffff&labelColor=000000"
-/></a>
 
 ### Skills
 
