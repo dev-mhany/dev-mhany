@@ -37,5 +37,3 @@ Highly skilled and experienced Full Stack Developer with a proven track record o
 <a href="https://github.com/dev-mhany" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mhany&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-mhany&bg_color=000000&color=dfbfdc&line=decf2b&point=7a53d5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
