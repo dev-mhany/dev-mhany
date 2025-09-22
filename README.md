@@ -35,3 +35,9 @@ Highly skilled and experienced Full Stack Developer with a proven track record o
 <a href="http://www.github.com/dev-mhany"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-mhany&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-mhany&bg_color=000000&color=dfbfdc&line=decf2b&point=7a53d5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<a href="http://www.github.com/https://github.com/dev-mhany"><img src="https://github-readme-stats.vercel.app/api?username=https://github.com/dev-mhany&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="https://github.com/dev-mhany's GitHub stats" /></a>
+
+<a href="http://www.github.com/https://github.com/dev-mhany"><img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/dev-mhany&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/https://github.com/dev-mhany" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/dev-mhany&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
