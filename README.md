@@ -28,9 +28,9 @@ Highly skilled and experienced Full Stack Developer with a proven track record o
 
 ### Badges
 
-<b>My GitRoll Analysis</b>
+## My GitRoll Analysis
 
-<img src="https://gitroll.io/api/badges/profiles/v1/uoFd5HBrUBrYpvYPTNT9rhQ1GdHt1?theme=WatchdogGradient" alt="dev-mhany's GitRoll stats" />
+[![dev-mhany's GitRoll stats](https://gitroll.io/api/badges/profiles/v1/uoFd5HBrUBrYpvYPTNT9rhQ1GdHt1?theme=WatchdogGradient)](https://gitroll.io/profile/uoFd5HBrUBrYpvYPTNT9rhQ1GdHt1)
 
 <b>My GitHub Stats</b>
 
