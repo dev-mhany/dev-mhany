@@ -36,6 +36,6 @@ Highly skilled and experienced Full Stack Developer with a proven track record o
 <b>My GitHub Stats</b>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dev-mhany&theme=dark)](https://git.io/streak-stats)
-<a href="http://www.github.com/dev-mhany"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-mhany&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-mhany&bg_color=000000&color=dfbfdc&line=decf2b&point=7a53d5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
