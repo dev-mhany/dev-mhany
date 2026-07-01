@@ -33,7 +33,7 @@ Highly skilled and experienced Full Stack Developer with a proven track record o
 
 [![GitRoll stats](./uoFd5HBrUBrYpvYPTNT9rhQ1GdHt1.png)](https://gitroll.io/profile/uoFd5HBrUBrYpvYPTNT9rhQ1GdHt1)
 
-<b>My GitHub Stats</b>
+<b>GitHub Stats</b>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dev-mhany&theme=dark)](https://git.io/streak-stats)
 
