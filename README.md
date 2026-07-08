@@ -1,41 +1,97 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Hany
-=====================================================================================================================================
+<div align="center">
+  <!-- Dynamic Gradient Twinkling Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Muhammad%20Hany&fontSize=70&fontAlignY=35&animation=twinkling&desc=Frontend%20Architect%20%7C%20AI-Driven%20Developer&descAlignY=55&descAlign=50" alt="Header Banner" width="100%" />
 
-FrontEnd Developer
-------------------
+  <!-- Animated Typing Text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&background=00000000&center=true&vCenter=true&width=600&lines=Specialized+in+Frontend+Development;Next.js+15+%7C+React+19+%7C+TypeScript;BMAD+%7C+Agentic+AI+Workflows;Building+with+Edge+Runtime+%26+Cloudflare;Secretly+Superman+🦸🏻‍♂️" alt="Typing SVG" />
+  </a>
+</div>
 
-Highly skilled and experienced Full Stack Developer with a proven track record of creating exceptional user interfaces and web applications. Seeking a challenging role in a company where I can utilize my technical expertise and contribute to the development of visually appealing and user-friendly websites and applications.
+<br/>
 
-* 🌍  I'm based in Egypt
-* 🖥️  See my portfolio at [Here](https://dev-muhammad-hany.vercel.app/)
-* ✉️  You can contact me at [dev.mhany@gmail.com](mailto:dev.mhany@gmail.com)
-* 🧠  I'm learning React, NextJs, FireBase
-* 🤝  I'm open to collaborating on Any Web development Ideas
-* ⚡  I'm secretly superman but don't tell anyone
+<div align="center">
+  <!-- GitHub Trophies (Dynamic) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dev-mhany&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
 
+<br/>
 
-### Skills
+### 🚀 The Command Center
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>👨🏻‍💻 About My Forge</h3>
+      <ul>
+        <li>🌍 Based in <b>10th of Ramadan City, Egypt</b>.</li>
+        <li>🧠 Deep diving into <b>Decentralized Identity</b> & <b>Open Badges</b>.</li>
+        <li>⚡ Supercharging workflows with <b>Antigravity CLI (agy)</b> & <b>Cursor</b>.</li>
+        <li>🔥 Optimizing performance with <b>Edge Runtime</b> and robust CDN caching.</li>
+        <li>🤝 Always open to collaborate on cutting-edge <b>SaaS & Web Architecture</b>.</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🛠️ Arsenal</h3>
+      <div align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=ts,react,nextjs,html,css,tailwind&perline=6" alt="Frontend Specs" />
+        </a>
+        <br/><br/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,firebase,gcp,cloudflare,docker,bash&perline=6" alt="Backend & Cloud" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+<br/>
 
+### 📊 Live Telemetry
 
-### Socials
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <!-- Customized Neon GitHub Stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=dev-mhany&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2fe" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <!-- Customized Neon Streak Stats -->
+        <img src="https://streak-stats.demolab.com?user=dev-mhany&theme=tokyonight&hide_border=true&fire=00f2fe&ring=00f2fe" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
+<br/>
 
-<p align="left"> <a href="https://www.facebook.com/m7md.hany98/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/dev-mhany" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/m7md._.hany/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/muhammad-hany-dev/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/MuhammadHanyDev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@m7md._.hany" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+<div align="center">
+  <!-- Full Width Neon Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-mhany&bg_color=1a1b26&color=00f2fe&line=00f2fe&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
 
-### Badges
+<br/>
 
-## My GitRoll Analysis
+<div align="center">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mhany&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2fe" alt="Top Languages" width="350"/>
+  
+  <!-- GitRoll Stats -->
+  <a href="https://gitroll.io/profile/uoFd5HBrUBrYpvYPTNT9rhQ1GdHt1">
+    <img src="https://gitroll.io/profile/uoFd5HBrUBrYpvYPTNT9rhQ1GdHt1.png" width="450" alt="GitRoll Stats" style="border-radius: 10px; margin-left: 15px;" />
+  </a>
+</div>
 
-[![GitRoll stats](./uoFd5HBrUBrYpvYPTNT9rhQ1GdHt1.png)](https://gitroll.io/profile/uoFd5HBrUBrYpvYPTNT9rhQ1GdHt1)
+<br/>
 
-<b>GitHub Stats</b>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dev-mhany&theme=dark)](https://git.io/streak-stats)
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-mhany&bg_color=000000&color=dfbfdc&line=decf2b&point=7a53d5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <h3>Let's Connect</h3>
+  <a href="https://www.linkedin.com/in/muhammad-hany-dev/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="https://www.x.com/MuhammadHanyDev"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white&style=for-the-badge" alt="X"/></a>
+  <a href="https://dev-muhammad-hany.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%2300f2fe.svg?logo=vercel&logoColor=black&style=for-the-badge" alt="Portfolio"/></a>
+  <a href="mailto:dev.mhany@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
+</div>
