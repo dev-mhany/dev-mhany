@@ -1,19 +1,19 @@
 <div align="center">
   <!-- Dynamic Gradient Twinkling Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Muhammad%20Hany&fontSize=70&fontAlignY=35&animation=twinkling&desc=Frontend%20Architect%20%7C%20AI-Driven%20Developer&descAlignY=55&descAlign=50" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Muhammad%20Hany&fontSize=70&fontAlignY=35&animation=twinkling&desc=Frontend%20Architect&descAlignY=55&descAlign=50" alt="Header Banner" width="100%" />
 
   <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&background=00000000&center=true&vCenter=true&width=600&lines=Specialized+in+Frontend+Development;Next.js+15+%7C+React+19+%7C+TypeScript;BMAD+%7C+Agentic+AI+Workflows;Building+with+Edge+Runtime+%26+Cloudflare;Secretly+Superman+🦸🏻‍♂️" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Specialized+in+Frontend+Development;Next.js+15+%7C+React+19+%7C+TypeScript;Building+with+Edge+Runtime+%26+Cloudflare;Secretly+Superman+🦸🏻‍♂️" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- GitHub Trophies (Dynamic) -->
+  <!-- GitHub Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dev-mhany&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dev-mhany&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -26,11 +26,11 @@
     <td valign="top" width="50%">
       <h3>👨🏻‍💻 About My Forge</h3>
       <ul>
-        <li>🌍 Based in <b>10th of Ramadan City, Egypt</b>.</li>
+        <li>🌍 Based in <b>Egypt</b>.</li>
         <li>🧠 Deep diving into <b>Decentralized Identity</b> & <b>Open Badges</b>.</li>
-        <li>⚡ Supercharging workflows with <b>Antigravity CLI (agy)</b> & <b>Cursor</b>.</li>
-        <li>🔥 Optimizing performance with <b>Edge Runtime</b> and robust CDN caching.</li>
-        <li>🤝 Always open to collaborate on cutting-edge <b>SaaS & Web Architecture</b>.</li>
+        <li>⚡ Building robust frontends with <b>Next.js 15</b> & <b>React 19</b>.</li>
+        <li>🔥 Optimizing performance with <b>Edge Runtime</b> and CDN caching.</li>
+        <li>🤝 Always open to collaborate on cutting-edge <b>Web Architecture</b>.</li>
       </ul>
     </td>
     <td valign="top" width="50%">
@@ -56,8 +56,8 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <!-- Customized Neon GitHub Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=dev-mhany&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2fe" alt="GitHub Stats" />
+        <!-- Standardized Tokyonight Stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=dev-mhany&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%">
         <!-- Customized Neon Streak Stats -->
@@ -78,11 +78,11 @@
 
 <div align="center">
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mhany&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2fe" alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mhany&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350"/>
   
-  <!-- GitRoll Stats -->
+  <!-- GitRoll Stats using your local repository image -->
   <a href="https://gitroll.io/profile/uoFd5HBrUBrYpvYPTNT9rhQ1GdHt1">
-    <img src="https://gitroll.io/profile/uoFd5HBrUBrYpvYPTNT9rhQ1GdHt1.png" width="450" alt="GitRoll Stats" style="border-radius: 10px; margin-left: 15px;" />
+    <img src="./uoFd5HBrUBrYpvYPTNT9rhQ1GdHt1.png" width="450" alt="GitRoll Stats" />
   </a>
 </div>
 
