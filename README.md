@@ -1,26 +1,11 @@
 <div align="center">
-  <!-- Dynamic Gradient Twinkling Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Muhammad%20Hany&fontSize=70&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Header Banner" width="100%" />
-
-  <!-- Animated Typing Text -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+PostgreSQL;Edge+Runtime+%26+Cloudflare+Optimization;Secretly+Superman+🦸🏻‍♂️" alt="Typing SVG" />
-  </a>
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&pause=5000&color=A9A9A9&center=true&vCenter=true&width=800&lines=%E2%98%95+caffalgorithmic+%3A+caffeine+becomes+the+catalyst+for+computational+creation." alt="Status" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dev-mhany&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
 </div>
 
 <br/>
@@ -56,45 +41,21 @@
 
 <br/>
 
-### 🏗️ Featured Architecture
-
-*   **Venuely SaaS:** A fully bilingual (Arabic RTL support) venue management platform designed for the MENA region, built for scale.
-*   **VelociERP:** An inventory management system built on modern React with a focus on functional, macOS-inspired minimalist UI/UX.
-*   **LinkedTrust Integrations:** Contributing to verifiable credentials and ecosystem integration bridging siloed platforms.
-
-<br/>
-
 ### 📊 Live Telemetry
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <!-- Standardized Tokyonight Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=dev-mhany&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <!-- Customized Neon Streak Stats -->
-        <img src="https://streak-stats.demolab.com?user=dev-mhany&theme=tokyonight&hide_border=true&fire=00f2fe&ring=00f2fe" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://streak-stats.demolab.com?user=dev-mhany&theme=tokyonight&hide_border=true&fire=00f2fe&ring=00f2fe" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Full Width Neon Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-mhany&bg_color=1a1b26&color=00f2fe&line=00f2fe&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mhany&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350"/>
-  
-  <!-- GitRoll Stats using your local repository image -->
   <a href="https://gitroll.io/profile/uoFd5HBrUBrYpvYPTNT9rhQ1GdHt1">
     <img src="./uoFd5HBrUBrYpvYPTNT9rhQ1GdHt1.png" width="450" alt="GitRoll Stats" />
   </a>
